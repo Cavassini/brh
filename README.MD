@@ -1,5 +1,7 @@
 <H1 align="center"> Projeto BRH Alura<H1>
 
+ ![](https://media-exp1.licdn.com/dms/image/C4E1BAQHBMz7jD5Onog/company-background_10000/0/1628188035323?e=1663786800&v=beta&t=pLVnsyIB63wGPr7Uc3vQhn8llEiIMDMR_JQg5HchXvg)
+
 >Projeto em andamento
 
 
@@ -13,10 +15,11 @@ cada um tem seu papel dentro do projeto e eles podem chefiar um projeto, assim c
 <h2>Procedures e Funções<h2>
 
 ```
--- NÃO CADASTRAR PROJETOS INVALIDOS
+
+- CADASTRAR PROJETOS INVALIDOS
 
 
-create or replace procedure brh.insere_projeto(
+ create or replace procedure brh.insere_projeto(
 
     p_nome in projeto.nome%type,
     p_responsavel in projeto.responsavel%type)
@@ -37,9 +40,10 @@ begin
     
 end;
 
-----------------------------------------------------------------------------------------------------------------
 
----FUNÇÃO FIM DO PROJETO--
+
+
+- FUNÇÃO FIM DO PROJETO
 
 create or replace function brh.finaliza_projeto (
 p_id number)
@@ -91,3 +95,7 @@ END;
 
 
 ```
+
+>Contato
+
+- thiagocavassinipc@gmail.com
