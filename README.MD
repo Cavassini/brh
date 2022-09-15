@@ -3,7 +3,7 @@
  ![](https://media-exp1.licdn.com/dms/image/C4E1BAQHBMz7jD5Onog/company-background_10000/0/1628188035323?e=1663786800&v=beta&t=pLVnsyIB63wGPr7Uc3vQhn8llEiIMDMR_JQg5HchXvg)
 
 >Projeto em andamento
-
+>Projeto está na parte final
 
 **Introduction**
 
