@@ -10,7 +10,23 @@
 
 >Este projeto se baseia em uma parceria da empresa BRX Retail com a Alura para a quarta edição do programa TREINEE da BRX
 >BRH é um projeto onde simula uma empresa com seus colaboradores estão em departamentos na empresa e participam de projetos,
-cada um tem seu papel dentro do projeto e eles podem chefiar um projeto, assim como ter dependentes
+cada um tem seu papel dentro do projeto e eles podem chefiar um projeto, assim como ter dependentes.
+ 
+ 
+ <h2>Principais entidades
+  
+  >departamento
+  
+  >colaborador
+  
+  >dependente
+  
+  >projeto
+  
+  >atribuicao
+  
+  >papel
+  
 
 <h2>Procedures e Funções<h2>
 
